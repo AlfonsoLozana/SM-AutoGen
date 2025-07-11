@@ -45,5 +45,3 @@ uv sync
 uv run main.py
 ```
 
-¡Listo! El sistema iniciará la negociación entre el cliente y el desarrollador.
-
