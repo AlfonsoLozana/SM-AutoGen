@@ -1,6 +1,6 @@
 # README.md - Sistema de Negociación Multiagente con AutoGen
 
-```
+
 # Sistema de Negociación Multiagente con AutoGen
 
 ## Pasos para Ejecutar el Programa
