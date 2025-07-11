@@ -1,0 +1,16 @@
+[project]
+name = "autogen-negotiation-system"
+version = "0.1.0"
+description = "Sistema de negociación multiagente usando AutoGen para simular interacciones entre cliente y desarrollador"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "autogen>=0.9.5",
+    "autogen-agentchat>=0.6.2",
+    "autogen-ext[ollama]>=0.6.2",
+    "ollama>=0.5.1",
+    "openai>=1.93.2",
+    "pydantic>=2.0.0",
+    "asyncio-mqtt>=0.16.0",
+    "pyyaml>=6.0.2",
+]

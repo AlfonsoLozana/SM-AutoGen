@@ -1,0 +1,9 @@
+# Configuración básica del sistema
+model: "mistral:latest"
+#Client info
+max_budget: "1500 eur"
+max_time: "1 mes"
+#developer info
+min_budget: "1200 eur"
+min_time: "3 weeks"
+description: "Aplicación software para registrar las horas de los usuarios"
